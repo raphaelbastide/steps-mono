@@ -14,7 +14,7 @@ Contribution can be accepted by pull request only.
 
 ## Specimen
 
-![Demo-Italic-v1.001-specimen-001](https://github.com/raphaelbastide/steps-mono/master/documentation/images/Demo-Regular-v0.1-specimen-001.png)
+![Demo-Italic-v1.001-specimen-001](https://raw.githubusercontent.com/raphaelbastide/steps-mono/master/documentation/images/Demo-Regular-v0.1-specimen-001.png)
 
 ## License
 
