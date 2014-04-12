@@ -4,7 +4,7 @@ FullName: Steps Mono
 FamilyName: Steps Mono
 Weight: Regular
 Copyright: copyright missing
-Version: 0.1
+Version: 0.2
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397234454
-ModificationTime: 1397318654
+ModificationTime: 1397319674
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 3
@@ -3530,13 +3530,13 @@ Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-280 705 m 5
+280 705 m 1
  254 705 l 1
  196 651 l 1
  320 526 l 1
  341 526 l 1
  365 549 l 1
- 280 705 l 5
+ 280 705 l 1
 EndSplineSet
 EndChar
 

@@ -34,9 +34,11 @@ ChangeLog
 When you make modifications, be sure to add a description of your changes,
 following the format of the other entries, to the start of this section.
 
-12 April 2014 (Raphaël Bastide) Steps-mono, v0.001
+12 April 2014 (Raphaël Bastide) Steps-mono, v0.1
 - Changed name to "Steps-mono"
 
+12 April 2014 (Raphaël Bastide) Steps-mono, v0.2
+- Fat accents
 
 Acknowledgements
 -------------------------
