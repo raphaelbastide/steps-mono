@@ -4,7 +4,7 @@ FullName: Steps Mono
 FamilyName: Steps Mono
 Weight: Regular
 Copyright: copyright missing
-Version: 001.000
+Version: 0.1
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397234454
-ModificationTime: 1397313284
+ModificationTime: 1397315204
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 3
