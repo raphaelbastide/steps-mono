@@ -1,7 +1,6 @@
 # Steps Mono
 
-This font was created for the french magazine étapes:  to demontrate
-a collaborative work around a single typeface.
+This font was created for the french magazine étapes: to demonstrate a collaborative design on the same font.
 
 ## Designers
 
