@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute" format="1">
+  <advance width="500"/>
+  <unicode hex="00F3"/>
+  <outline>
+    <contour>
+      <point x="291" y="832" type="line"/>
+      <point x="206" y="676" type="line"/>
+      <point x="230" y="653" type="line"/>
+      <point x="251" y="653" type="line"/>
+      <point x="375" y="778" type="line"/>
+      <point x="317" y="832" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="87" type="line"/>
+      <point x="425" y="506" type="line"/>
+      <point x="339" y="593" type="line"/>
+      <point x="161" y="593" type="line"/>
+      <point x="75" y="506" type="line"/>
+      <point x="75" y="87" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="339" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="545" type="line"/>
+      <point x="324" y="527" type="line"/>
+      <point x="324" y="66" type="line"/>
+      <point x="304" y="48" type="line"/>
+      <point x="196" y="48" type="line"/>
+      <point x="176" y="66" type="line"/>
+      <point x="176" y="527" type="line"/>
+      <point x="196" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
