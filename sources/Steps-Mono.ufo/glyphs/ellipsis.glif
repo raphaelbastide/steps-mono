@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="500"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="132" y="115" type="line"/>
+      <point x="33" y="115" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="115" type="line"/>
+      <point x="200" y="115" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="115" type="line"/>
+      <point x="366" y="115" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ellipsis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
