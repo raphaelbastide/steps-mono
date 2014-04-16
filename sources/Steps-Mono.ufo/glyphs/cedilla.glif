@@ -6,7 +6,7 @@
     <contour>
       <point x="336" y="-147" type="line"/>
       <point x="336" y="-82" type="line"/>
-      <point x="291" y="-38" type="line"/>
+      <point x="291" y="-37" type="line"/>
       <point x="204" y="-37" type="line"/>
       <point x="204" y="-62" type="line"/>
       <point x="273" y="-62" type="line"/>
@@ -20,6 +20,9 @@
       <point x="182" y="-147" type="line"/>
       <point x="214" y="-191" type="line"/>
       <point x="291" y="-191" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="-18" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
@@ -49,6 +52,13 @@
           <integer>500</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

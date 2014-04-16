@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave.case" format="1">
+<glyph name="dotaccent.cap" format="1">
   <advance width="500"/>
   <outline>
-    <contour>
-      <point x="262" y="829" type="line"/>
-      <point x="287" y="866" type="line"/>
-      <point x="106" y="985" type="line"/>
-      <point x="80" y="946" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +22,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>grave.case</string>
+          <string>dotaccent.cap</string>
           <key>unicodes</key>
           <array>
           </array>
@@ -36,6 +30,13 @@
           <integer>500</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
