@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cap" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="376" y="846" type="line"/>
+      <point x="408" y="846" type="line"/>
+      <point x="415" y="853" type="line"/>
+      <point x="415" y="853"/>
+      <point x="334" y="1019"/>
+      <point x="334" y="1019" type="curve"/>
+      <point x="276" y="1019" type="line"/>
+      <point x="276" y="1019"/>
+      <point x="195" y="853"/>
+      <point x="195" y="853" type="curve"/>
+      <point x="202" y="846" type="line"/>
+      <point x="234" y="846" type="line"/>
+      <point x="305" y="953" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="843" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
