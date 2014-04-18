@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397663308
-ModificationTime: 1397663308
+ModificationTime: 1397841990
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -53,20 +53,21 @@ OS2StrikeYPos: 295
 OS2Vendor: 'NONE'
 OS2CodePages: 20000003.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "Steps-Mono Mono" "Regular" "1.000;NONE;Steps-Mono-Mono" "" "Version 1.000;PS 1.0;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT" "" "" "" "" "" "" "" "" "" "" "Steps-Mono" "Mono" 
+LangName: 1033 "" "" "Regular" "1.000;NONE;Steps-Mono-Mono" "" "Version 1.000;PS 1.0;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT" "" "" "" "" "" "" "" "" "" "" "Steps-Mono" "Regular" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 33 33 8
+WinInfo: 528 33 8
 BeginPrivate: 2
 BlueScale 8 0.039625
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65554 218
+BeginChars: 65554 219
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -6387,6 +6388,48 @@ SplineSet
  316 48 l 1xe8
  450 48 l 1
  450 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0243
+Encoding: 579 579 218
+Width: 500
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+370 367 m 1
+ 350 385 l 1
+ 177 385 l 1
+ 177 252 l 1
+ 272 252 l 1
+ 272 194 l 1
+ 177 194 l 1
+ 177 60 l 1
+ 350 60 l 1
+ 370 78 l 1
+ 370 367 l 1
+177 442 m 1
+ 326 442 l 1
+ 346 460 l 1
+ 346 712 l 1
+ 326 730 l 1
+ 177 730 l 1
+ 177 442 l 1
+478 355 m 1
+ 478 87 l 1
+ 385 0 l 1
+ 69 0 l 1
+ 69 194 l 1
+ 8 194 l 1
+ 8 252 l 1
+ 69 252 l 1
+ 69 790 l 1
+ 361 790 l 1
+ 454 703 l 1
+ 454 472 l 1
+ 403 425 l 1
+ 478 355 l 1
 EndSplineSet
 EndChar
 EndChars
