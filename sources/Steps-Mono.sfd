@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397663308
-ModificationTime: 1397841990
+ModificationTime: 1398074023
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -62,12 +62,18 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 528 33 8
+WinInfo: 0 33 8
 BeginPrivate: 2
 BlueScale 8 0.039625
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 65554 219
+Grid
+143.615 1500 m 1
+ 143.615 839 143.515 166.502 143.615 -500 c 1
+428.5 1500 m 0
+ 428.5 -500 l 0
+EndSplineSet
+BeginChars: 65554 220
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1368,27 +1374,27 @@ EndChar
 StartChar: G
 Encoding: 71 71 44
 Width: 500
-Flags: MW
+Flags: MWO
 HStem: 0 60<179 320 179 428 144 320> 730 60<179 387 179 179>
 VStem: 51 108<87 703 703 703> 320 108<60 291 0 291>
 LayerCount: 2
 Fore
 SplineSet
-428 291 m 1
- 428 0 l 1
- 144 0 l 1
- 51 87 l 1
- 51 703 l 1
- 144 790 l 1
- 387 790 l 1
- 387 730 l 1
- 179 730 l 1
- 159 712 l 1
- 159 78 l 1
- 179 60 l 1
- 320 60 l 1
- 320 291 l 1
- 428 291 l 1
+428 291 m 5
+ 428 0 l 5
+ 144 0 l 5
+ 51 87 l 5
+ 51 703 l 5
+ 144 790 l 5
+ 387 790 l 5
+ 387 730 l 5
+ 179 730 l 5
+ 159 712 l 5
+ 159 78 l 5
+ 179 60 l 5
+ 320 60 l 5
+ 320 291 l 5
+ 428 291 l 5
 EndSplineSet
 EndChar
 
@@ -2533,7 +2539,7 @@ EndChar
 StartChar: s
 Encoding: 115 115 86
 Width: 500
-Flags: MW
+Flags: MWO
 HStem: 0 48<203 316 203 351 168 316> 87 60<81 182> 445 61<432 432> 545 48<222 310 222 222>
 VStem: 81 101<87 147 66 147> 100 101<445 506 506 506> 331 101<445 506 445 527 445 527> 337 101<87 178 178 178>
 LayerCount: 2
@@ -6394,7 +6400,7 @@ EndChar
 StartChar: uni0243
 Encoding: 579 579 218
 Width: 500
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6430,6 +6436,44 @@ SplineSet
  454 472 l 1
  403 425 l 1
  478 355 l 1
+EndSplineSet
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 219
+Width: 500
+Flags: WO
+HStem: 0 60<179 320> 281 60<251 320 398 460> 452 60<215 289> 730 60<179 387>
+VStem: 51 108<546 703> 320 78<60 281>
+LayerCount: 2
+Fore
+SplineSet
+251 341 m 1
+ 460 341 l 1
+ 460 281 l 1
+ 398 281 l 1
+ 398 0 l 1
+ 144 0 l 1
+ 51 87 l 1
+ 144 459 l 1
+ 51 546 l 1
+ 51 703 l 1
+ 144 790 l 1
+ 387 790 l 1
+ 387 730 l 1
+ 179 730 l 1
+ 159 712 l 1
+ 159 530 l 1
+ 179 512 l 1
+ 289 512 l 1
+ 289 452 l 1
+ 215 452 l 1
+ 159 78 l 1
+ 179 60 l 1
+ 320 60 l 1
+ 320 281 l 1
+ 251 281 l 1
+ 251 341 l 1
 EndSplineSet
 EndChar
 EndChars
