@@ -2,6 +2,8 @@
 
 This font was created for the french magazine étapes: to demonstrate a collaborative design on the same font.
 
+[Download](https://github.com/raphaelbastide/steps-mono/archive/master.zip) sources and font files.
+
 ## Designers
 
 Raphaël Bastide, Jean-Baptiste Morizot
