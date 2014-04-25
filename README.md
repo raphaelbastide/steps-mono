@@ -15,8 +15,11 @@ Contribution can be accepted by pull request only.
 
 ## Specimen
 
+### Steps Mono Regular
+
 ![Specimen Steps Mono Regular](https://raw.githubusercontent.com/raphaelbastide/steps-mono/master/documentation/images/Demo-Regular-v0.1-specimen-001.png)
 
+### Steps Mono Thin
 
 ![Specimen Steps Mono Thin](https://raw.githubusercontent.com/raphaelbastide/steps-mono/master/documentation/images/Demo-Thin-v0.3-specimen-001.png)
 
