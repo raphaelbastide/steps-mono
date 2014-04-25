@@ -6,8 +6,8 @@ This font was created for the french magazine étapes: to demonstrate a collabor
 
 ## Designers
 
-Raphaël Bastide, Jean-Baptiste Morizot
-
+- Raphaël Bastide [@raphaelbastide](https://twitter.com/raphaelbastide)
+- Jean-Baptiste Morizot [@jbmorizot](https://twitter.com/jb_morizot)
 
 ## Contribute
 
