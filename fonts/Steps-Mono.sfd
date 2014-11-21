@@ -6,10 +6,10 @@ Weight: Normal
 Copyright: copyright missing
 Version: 1.0
 ItalicAngle: 0
-UnderlinePosition: 0
-UnderlineWidth: 0
-Ascent: 800
-Descent: 200
+UnderlinePosition: -50
+UnderlineWidth: 50
+Ascent: 801
+Descent: 199
 sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Arri+AOgA-re"  1
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397749151
-ModificationTime: 1398968420
+ModificationTime: 1398968863
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -90,11 +90,11 @@ SplineSet
  191 379 l 1
 441 680 m 1x80f2
  441 619 l 1x80f2
- 312 619 l 1
- 312 561 l 1
+ 314 619 l 1
+ 314 561 l 1
  441 561 l 1x80f9
- 441 501 l 1
- 480 501 l 1
+ 441 504 l 1
+ 480 504 l 1
  480 380 l 1
  441 380 l 1
  441 501 l 1x8439
@@ -103,8 +103,8 @@ SplineSet
  441 179 l 1xc0b5
  441 300 l 1
  480 300 l 1
- 480 179 l 1x9035
- 441 179 l 1xc035
+ 480 187 l 1x9035
+ 441 187 l 1xc035
  441 120 l 1xc032
  312 120 l 1
  312 62 l 1xc038
@@ -119,14 +119,14 @@ SplineSet
  49 178 l 1xa038
  49 120 l 1
  8 120 l 1xc038
- 8 178 l 1
- 49 178 l 1
+ 8 185 l 1
+ 49 185 l 1
  49 239 l 1
  112 239 l 1
  112 441 l 1
  49 441 l 1
- 49 501 l 1
- 8 501 l 1xa238
+ 49 498 l 1
+ 8 498 l 1xa238
  8 561 l 1
  49 561 l 1x80b8
  49 501 l 1
@@ -134,8 +134,8 @@ SplineSet
  112 561 l 1
  176 561 l 1
  176 619 l 1
- 312 619 l 1x80f8
- 312 680 l 1
+ 310 619 l 1x80f8
+ 310 680 l 1
  441 680 l 1x80f2
 EndSplineSet
 Validated: 5
