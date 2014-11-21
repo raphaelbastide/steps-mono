@@ -6,10 +6,10 @@ Weight: Normal
 Copyright: copyright missing
 Version: 1.0
 ItalicAngle: 0
-UnderlinePosition: 0
-UnderlineWidth: 0
-Ascent: 800
-Descent: 200
+UnderlinePosition: -50
+UnderlineWidth: 50
+Ascent: 801
+Descent: 199
 sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Arri+AOgA-re"  1
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1397749151
-ModificationTime: 1398968420
+ModificationTime: 1398968863
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -55,25 +55,19 @@ OS2CodePages: 20000003.00000000
 OS2UnicodeRanges: 00000003.00000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Regular" "1.000;NONE;Steps-Mono-Mono" "" "Version 1.000;PS 1.0;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT" "" "" "" "" "" "" "" "" "" "" "Steps-Mono" "Regular" 
+LangName: 1033 "" "Steps-Mono Mono" "Regular" "1.000;NONE;Steps-Mono-Mono" "" "Version 1.000;PS 1.0;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT" "" "" "" "" "" "" "" "" "" "" "Steps-Mono" "Mono" 
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 198 33 8
+WinInfo: 33 33 8
 BeginPrivate: 2
 BlueScale 8 0.039625
 ExpansionFactor 4 0.06
 EndPrivate
-Grid
-143.615 1500 m 1
- 143.615 839 143.515 166.502 143.615 -500 c 1
-428.5 1500 m 0
- 428.5 -500 l 0
-EndSplineSet
-BeginChars: 65554 222
+BeginChars: 65554 220
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -96,11 +90,11 @@ SplineSet
  191 379 l 1
 441 680 m 1x80f2
  441 619 l 1x80f2
- 312 619 l 1
- 312 561 l 1
+ 314 619 l 1
+ 314 561 l 1
  441 561 l 1x80f9
- 441 501 l 1
- 480 501 l 1
+ 441 504 l 1
+ 480 504 l 1
  480 380 l 1
  441 380 l 1
  441 501 l 1x8439
@@ -109,8 +103,8 @@ SplineSet
  441 179 l 1xc0b5
  441 300 l 1
  480 300 l 1
- 480 179 l 1x9035
- 441 179 l 1xc035
+ 480 187 l 1x9035
+ 441 187 l 1xc035
  441 120 l 1xc032
  312 120 l 1
  312 62 l 1xc038
@@ -125,14 +119,14 @@ SplineSet
  49 178 l 1xa038
  49 120 l 1
  8 120 l 1xc038
- 8 178 l 1
- 49 178 l 1
+ 8 185 l 1
+ 49 185 l 1
  49 239 l 1
  112 239 l 1
  112 441 l 1
  49 441 l 1
- 49 501 l 1
- 8 501 l 1xa238
+ 49 498 l 1
+ 8 498 l 1xa238
  8 561 l 1
  49 561 l 1x80b8
  49 501 l 1
@@ -140,8 +134,8 @@ SplineSet
  112 561 l 1
  176 561 l 1
  176 619 l 1
- 312 619 l 1x80f8
- 312 680 l 1
+ 310 619 l 1x80f8
+ 310 680 l 1
  441 680 l 1x80f2
 EndSplineSet
 Validated: 5
@@ -1419,21 +1413,21 @@ VStem: 51 108<87 703 703 703> 320 108<60 291 0 291>
 LayerCount: 2
 Fore
 SplineSet
-428 291 m 5
- 428 0 l 5
- 144 0 l 5
- 51 87 l 5
- 51 703 l 5
- 144 790 l 5
- 387 790 l 5
- 387 730 l 5
- 179 730 l 5
- 159 712 l 5
- 159 78 l 5
- 179 60 l 5
- 320 60 l 5
- 320 291 l 5
- 428 291 l 5
+428 291 m 1
+ 428 0 l 1
+ 144 0 l 1
+ 51 87 l 1
+ 51 703 l 1
+ 144 790 l 1
+ 387 790 l 1
+ 387 730 l 1
+ 179 730 l 1
+ 159 712 l 1
+ 159 78 l 1
+ 179 60 l 1
+ 320 60 l 1
+ 320 291 l 1
+ 428 291 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -6682,91 +6676,6 @@ SplineSet
  370 367 l 1xfa
 EndSplineSet
 Validated: 1
-EndChar
-
-StartChar: uni0243
-Encoding: 579 579 220
-Width: 500
-Flags: W
-HStem: 0 60<177 350> 194 58<8 69 177 272> 385 57<177 326> 730 60<177 326>
-VStem: 69 108<60 194 252 385 442 730> 346 108<472 703> 370 108<87 355>
-LayerCount: 2
-Fore
-SplineSet
-370 367 m 1xfa
- 350 385 l 1
- 177 385 l 1
- 177 252 l 1
- 272 252 l 1
- 272 194 l 1
- 177 194 l 1
- 177 60 l 1
- 350 60 l 1
- 370 78 l 1
- 370 367 l 1xfa
-177 442 m 1
- 326 442 l 1
- 346 460 l 1
- 346 712 l 1xfc
- 326 730 l 1
- 177 730 l 1
- 177 442 l 1
-478 355 m 1xfa
- 478 87 l 1xfa
- 385 0 l 1
- 69 0 l 1
- 69 194 l 1
- 8 194 l 1
- 8 252 l 1
- 69 252 l 1
- 69 790 l 1
- 361 790 l 1
- 454 703 l 1
- 454 472 l 1xfc
- 403 425 l 1
- 478 355 l 1xfa
-EndSplineSet
-EndChar
-
-StartChar: ampersand
-Encoding: 38 38 221
-Width: 500
-Flags: W
-HStem: 0 60<180.75 323.75> 286.5 52.5<263.75 323.75 409.25 475.25> 423 60<191.57 332.75> 730 60<192.25 348>
-VStem: 52.75 108<94 396> 64.25 108<516.5 703> 323.75 85.5<60 286.5>
-LayerCount: 2
-Fore
-SplineSet
-409.25 16.499 m 1xfa
- 398.667 0 l 1
- 145.75 0 l 1
- 52.75 94 l 1
- 52.75 396 l 1xfa
- 122.67 461.409 l 1
- 64.25 516.5 l 1
- 64.25 703 l 1
- 157.25 790 l 1
- 348 790 l 1
- 348 730 l 1
- 192.25 730 l 1
- 172.25 712 l 1
- 172.25 501.5 l 1xf6
- 191.57 483 l 1
- 332.75 483 l 1
- 332.75 423 l 1
- 180.75 423 l 1
- 160.75 405 l 1
- 160.75 78 l 1
- 180.75 60 l 1
- 323.75 60 l 1
- 323.75 286.5 l 1
- 263.75 286.5 l 1
- 263.75 339 l 1
- 475.25 339 l 1
- 475.25 286.5 l 1
- 409.25 286.5 l 1
- 409.25 16.499 l 1xfa
-EndSplineSet
 EndChar
 EndChars
 EndSplineFont
