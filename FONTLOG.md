@@ -16,16 +16,12 @@ a collaborative work around a typeface.
 Information for Contributors
 ------------------------------
 
-Demo is released under the OFL 1.1 - http://scripts.sil.org/OFL
+Steps Mono is released under the OFL 1.1 - http://scripts.sil.org/OFL
 
 For information on what you're allowed to change or modify, consult the
 OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
 rationale and various recommendations regarding why you would want to
 contribute to the project or make your own version of the font.
-
-See the project website for the current trunk and the various branches:
-
-http://openfontlibrary.org/projects/foo-font
 
 
 ChangeLog
@@ -33,6 +29,9 @@ ChangeLog
 
 When you make modifications, be sure to add a description of your changes,
 following the format of the other entries, to the start of this section.
+
+12 March 2015 (Raphaël Bastide) Steps-mono, v0.1
+- Elipsis, copyright notice
 
 12 April 2014 (Raphaël Bastide) Steps-mono, v0.1
 - Changed name to "Steps-mono"
@@ -51,4 +50,3 @@ N: Raphaël Bastide
 E: bonjour@raphaelbastide.com
 W: http://raphaelbastide.com
 D: Designer
-

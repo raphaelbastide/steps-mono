@@ -4,57 +4,68 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="429" y="521" type="line"/>
-      <point x="341" y="593" type="line"/>
-      <point x="180" y="593" type="line"/>
-      <point x="92" y="521" type="line"/>
-      <point x="92" y="72" type="line"/>
-      <point x="178" y="0" type="line"/>
-      <point x="413" y="0" type="line"/>
-      <point x="413" y="48" type="line"/>
-      <point x="208" y="48" type="line"/>
-      <point x="193" y="66" type="line"/>
-      <point x="193" y="294" type="line"/>
-      <point x="429" y="294" type="line"/>
-    </contour>
-    <contour>
       <point x="328" y="341" type="line"/>
-      <point x="193" y="341" type="line"/>
-      <point x="193" y="527" type="line"/>
-      <point x="208" y="545" type="line"/>
-      <point x="313" y="545" type="line"/>
       <point x="328" y="527" type="line"/>
+      <point x="313" y="545" type="line"/>
+      <point x="208" y="545" type="line"/>
+      <point x="193" y="527" type="line"/>
+      <point x="193" y="341" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="665" type="move" name="top"/>
+      <point x="428" y="521" type="line"/>
+      <point x="428" y="294" type="line"/>
+      <point x="193" y="294" type="line"/>
+      <point x="193" y="66" type="line"/>
+      <point x="208" y="48" type="line"/>
+      <point x="413" y="48" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="93" y="72" type="line"/>
+      <point x="93" y="521" type="line"/>
+      <point x="180" y="593" type="line"/>
+      <point x="341" y="593" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>48</integer>
           </dict>
-          <key>name</key>
-          <string>e</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
+          <dict>
+            <key>position</key>
+            <integer>294</integer>
+            <key>width</key>
+            <integer>47</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>545</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>93</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>328</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

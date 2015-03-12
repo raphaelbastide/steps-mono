@@ -5,48 +5,34 @@
   <outline>
     <contour>
       <point x="91" y="741" type="line"/>
-      <point x="383" y="741" type="line"/>
-      <point x="383" y="797" type="line"/>
       <point x="91" y="797" type="line"/>
-    </contour>
-    <contour>
-      <point x="237" y="651" type="move" name="_top"/>
+      <point x="383" y="797" type="line"/>
+      <point x="383" y="741" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>741</integer>
+            <key>width</key>
+            <integer>56</integer>
           </dict>
-          <key>name</key>
-          <string>macron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>91</integer>
+            <key>width</key>
+            <integer>292</integer>
+          </dict>
+        </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

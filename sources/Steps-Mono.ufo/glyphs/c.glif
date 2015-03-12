@@ -5,51 +5,47 @@
   <outline>
     <contour>
       <point x="243" y="48" type="line"/>
-      <point x="227" y="66" type="line"/>
-      <point x="227" y="527" type="line"/>
-      <point x="243" y="545" type="line"/>
-      <point x="413" y="545" type="line"/>
-      <point x="413" y="593" type="line"/>
-      <point x="220" y="593" type="line"/>
-      <point x="126" y="506" type="line"/>
-      <point x="126" y="87" type="line"/>
-      <point x="220" y="0" type="line"/>
-      <point x="413" y="0" type="line"/>
       <point x="413" y="48" type="line"/>
-    </contour>
-    <contour>
-      <point x="277" y="665" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="310" y="-26" type="move" name="bottom"/>
+      <point x="413" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="127" y="87" type="line"/>
+      <point x="127" y="506" type="line"/>
+      <point x="220" y="593" type="line"/>
+      <point x="413" y="593" type="line"/>
+      <point x="413" y="545" type="line"/>
+      <point x="243" y="545" type="line"/>
+      <point x="227" y="527" type="line"/>
+      <point x="227" y="66" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>48</integer>
           </dict>
-          <key>name</key>
-          <string>c</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
+          <dict>
+            <key>position</key>
+            <integer>545</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>127</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

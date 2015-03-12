@@ -4,57 +4,45 @@
   <outline>
     <contour>
       <point x="376" y="846" type="line"/>
-      <point x="408" y="846" type="line"/>
-      <point x="415" y="853" type="line"/>
-      <point x="415" y="853"/>
-      <point x="334" y="1019"/>
-      <point x="334" y="1019" type="curve"/>
-      <point x="276" y="1019" type="line"/>
-      <point x="276" y="1019"/>
-      <point x="195" y="853"/>
-      <point x="195" y="853" type="curve"/>
-      <point x="202" y="846" type="line"/>
-      <point x="234" y="846" type="line"/>
       <point x="305" y="953" type="line"/>
-    </contour>
-    <contour>
-      <point x="308" y="843" type="move" name="_top"/>
+      <point x="234" y="846" type="line"/>
+      <point x="202" y="846" type="line"/>
+      <point x="195" y="853" type="line"/>
+      <point x="276" y="1019" type="line"/>
+      <point x="334" y="1019" type="line"/>
+      <point x="415" y="853" type="line"/>
+      <point x="408" y="846" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>846</integer>
+            <key>width</key>
+            <integer>7</integer>
           </dict>
-          <key>name</key>
-          <string>circumflex.cap</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
+          <dict>
+            <key>position</key>
+            <integer>846</integer>
+            <key>width</key>
+            <integer>173</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>195</integer>
+            <key>width</key>
+            <integer>220</integer>
+          </dict>
+        </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
